@@ -1,0 +1,10 @@
+body {
+    /* background-image: url("./images/DSC08922-2.jpg"); */
+    background-image: url("../images/DSC09023-3.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+    background-position: 50% 40%;
+  }
